@@ -1,0 +1,15 @@
+{
+  "name": "website-bootstrap",
+  "version": "1.0.0",
+  "description": "First test using Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Ariel",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
