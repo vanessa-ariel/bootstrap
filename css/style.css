@@ -4,12 +4,13 @@
 .dropdown-menu{
     background: red;
 }
-/* .carousel-banner{
-    height: 30vh;
-} */
+.carousel-banner{
+    margin-top: 56px;
+}
 .carousel-banner img{
     height: 70vh;
     object-fit: cover;
+    /* padding-top: 56px; */
 }
 .carousel-banner h5{
     font-size: 40px;
@@ -25,4 +26,12 @@ h1.title{
 }
 .row-margin > div{
     margin-bottom: 25px;
+}
+.call-to-action > .container{
+    border-top: 1px solid lightgray;
+    padding:15px 0;
+    margin-top:15px;
+}
+.modern-business .col-lg-6{
+    /* padding: 0; */
 }
